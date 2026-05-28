@@ -3,8 +3,8 @@
 Frontend-baseret konceptwebsite udviklet som hovedopgave på multimediedesigneruddannelsen.
 
 ## Teknologier
-- HTML5
-- CSS3
+- HTML
+- CSS
 - JavaScript
 
 ## Fokusområder
@@ -14,7 +14,7 @@ Frontend-baseret konceptwebsite udviklet som hovedopgave på multimediedesigneru
 - Performanceoptimering
 - WebP-billedkomprimering
 - Lazy loading
-- Minificering af assets
+- Minificering 
 - Grøn hosting via Cloudflare Pages
 
 ## Hosting
